@@ -10,7 +10,7 @@ class blacklist:
             writer = csv.writer(f)
             writer.writerow(header)
 
-            for domain in data['data']['instances']:
+            for domain in data['instances']:
                 data = [
                     domain['domain'],
                     'suspend',
