@@ -26,7 +26,7 @@ The current default for the lists here is:
 |    0 |             2000 |
 |    1 |             1500 |
 |    2 |             1000 |
-|    2 |              750 |
+|    3 |              750 |
 
 ## Where's the Receipts?
 
