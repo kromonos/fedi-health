@@ -17,6 +17,17 @@ major depression, borderline, and don't want to get part in a bitch fight of oth
 
 This is our best-guess of the kinds of blocks you might need to keep the fedi weird *and* safe.  
 
+## Default scores
+
+The current default for the lists here is:
+
+| Tier | Min. abuse score |
+|-----:|-----------------:|
+|    0 |             2000 |
+|    1 |             1500 |
+|    2 |             1000 |
+|    2 |              750 |
+
 ## Where's the Receipts?
 
 Not here. There is no reason to get into any fights about what is essentially a point-in-time *status report*.  
