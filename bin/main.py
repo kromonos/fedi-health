@@ -15,6 +15,9 @@ def main():
         tier2 = downloadData.get(baseUrl + '1000')
         blacklist.create(tier2, 2)
 
+        tier3 = downloadData.get(baseUrl + '750')
+        blacklist.create(tier3, 3)
+
     except ValueError as ve:
         return str(ve)
 
