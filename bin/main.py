@@ -3,7 +3,7 @@ from fetch import downloadData
 from blacklist import blacklist
 
 def main():
-    baseUrl = 'https://gql.api.bka.li/api/rest/fediabuse/'
+    baseUrl = 'https://api.drow.be/fediscore/'
 
     try:
         tier0 = downloadData.get(baseUrl + '2000')
