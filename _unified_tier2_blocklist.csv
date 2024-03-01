@@ -76,6 +76,7 @@ blahaj.zone,suspend,False,False,,False
 blobfox.coffee,suspend,False,False,,False
 blog.bantu.social,suspend,False,False,,False
 blog.beaware.live,suspend,False,False,,False
+blog.bitcast.info,suspend,False,False,,False
 blog.fyrfli.social,suspend,False,False,,False
 blog.garillaz.fr.eu.org,suspend,False,False,,False
 blog.incenbie.eu.org,suspend,False,False,,False
@@ -112,6 +113,7 @@ calckey.tenkuu.social,suspend,False,False,,False
 cambrian.social,suspend,False,False,,False
 canerduh.ca,suspend,False,False,,False
 carfree.city,suspend,False,False,,False
+caseitor.masto.host,suspend,False,False,,False
 cassano.com.br,suspend,False,False,,False
 casually.cat,suspend,False,False,,False
 catcatnya.com,suspend,False,False,,False
@@ -172,6 +174,7 @@ ecoevo.social,suspend,False,False,,False
 edi.social,suspend,False,False,,False
 efdn.club,suspend,False,False,,False
 egirls.gay,suspend,False,False,,False
+eigenmagic.net,suspend,False,False,,False
 eightpoint.app,suspend,False,False,,False
 elbmatsch.de,suspend,False,False,,False
 eldritch.cafe,suspend,False,False,,False
@@ -300,6 +303,7 @@ infosec.space,suspend,False,False,,False
 infosec.town,suspend,False,False,,False
 inherently.digital,suspend,False,False,,False
 introvert.social,suspend,False,False,,False
+invid.hwl.li,suspend,False,False,,False
 io.waxandleather.com,suspend,False,False,,False
 is-a.cat,suspend,False,False,,False
 is.nota.live,suspend,False,False,,False
@@ -388,6 +392,7 @@ masto.queerscience.net,suspend,False,False,,False
 mastobate.social,suspend,False,False,,False
 mastodon.ar.al,suspend,False,False,,False
 mastodon.art,suspend,False,False,,False
+mastodon.bayern,suspend,False,False,,False
 mastodon.bentasker.co.uk,suspend,False,False,,False
 mastodon.blahajspin.lol,suspend,False,False,,False
 mastodon.caputoweb.eu.org,suspend,False,False,,False
@@ -596,7 +601,6 @@ relay.infosec.exchange,suspend,False,False,,False
 relay.lea.pet,suspend,False,False,,False
 relay.social.0x68756773.moe,suspend,False,False,,False
 relay.todon.eu,suspend,False,False,,False
-relay.worm.pink,suspend,False,False,,False
 replicants.cafe,suspend,False,False,,False
 respiroaventura.com.br,suspend,False,False,,False
 retro.pizza,suspend,False,False,,False
@@ -703,6 +707,7 @@ spooky.academy,suspend,False,False,,False
 squad.town,suspend,False,False,,False
 squid.cafe,suspend,False,False,,False
 stage.pixelfed.de,suspend,False,False,,False
+stage.social.cologne,suspend,False,False,,False
 stargate.pbcarrara.com.br,suspend,False,False,,False
 stctp.zone,suspend,False,False,,False
 stereophonic.space,suspend,False,False,,False
@@ -729,6 +734,7 @@ tau-ceti.space,suspend,False,False,,False
 tbh.co-shaoghal.net,suspend,False,False,,False
 teabag.ninja,suspend,False,False,,False
 tech.lgbt,suspend,False,False,,False
+televerse.generallyrubbish.net,suspend,False,False,,False
 tenforward.social,suspend,False,False,,False
 termine.schraepler.de,suspend,False,False,,False
 terrible.city,suspend,False,False,,False

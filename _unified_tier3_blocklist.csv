@@ -144,6 +144,7 @@ circumstances.run,suspend,False,False,,False
 citw.lgbt,suspend,False,False,,False
 ck.redsky.monster,suspend,False,False,,False
 climatejustice.events,suspend,False,False,,False
+climatejustice.global,suspend,False,False,,False
 climatejustice.social,suspend,False,False,,False
 clockwork.monster,suspend,False,False,,False
 cloudisland.nz,suspend,False,False,,False
@@ -178,6 +179,7 @@ deep13.social,suspend,False,False,,False
 demiboy.gay,suspend,False,False,,False
 demon.social,suspend,False,False,,False
 denton.social,suspend,False,False,,False
+dev.bark.lgbt,suspend,False,False,,False
 dev.opensocial.space,suspend,False,False,,False
 devianze.city,suspend,False,False,,False
 diaspora.im,suspend,False,False,,False
@@ -193,6 +195,7 @@ djs.social,suspend,False,False,,False
 donotsta.re,suspend,False,False,,False
 dope.bz,suspend,False,False,,False
 dragonscave.space,suspend,False,False,,False
+dri.masto.host,suspend,False,False,,False
 ecoevo.social,suspend,False,False,,False
 edi.social,suspend,False,False,,False
 efdn.club,suspend,False,False,,False
@@ -206,6 +209,7 @@ embracing.space,suspend,False,False,,False
 enby.life,suspend,False,False,,False
 envs.net,suspend,False,False,,False
 eso-rollenspiel.de,suspend,False,False,,False
+esperanto.masto.host,suspend,False,False,,False
 estrogen.network,suspend,False,False,,False
 evil.social,suspend,False,False,,False
 evokegts.umbrellix.org,suspend,False,False,,False
@@ -251,6 +255,7 @@ fountainpen.social,suspend,False,False,,False
 frederiksberg.social,suspend,False,False,,False
 free.gluten.space,suspend,False,False,,False
 freespeechextremist.com,suspend,False,False,,False
+freethinkers.lgbt,suspend,False,False,,False
 frfsh.plus.st,suspend,False,False,,False
 friendica.mrpetovan.com,suspend,False,False,,False
 friendica.opensocial.space,suspend,False,False,,False
@@ -365,6 +370,7 @@ k.iim.gay,suspend,False,False,,False
 kafeneio.social,suspend,False,False,,False
 kampftoast.de,suspend,False,False,,False
 kave.kibbutz.gay,suspend,False,False,,False
+kbin.lgbt,suspend,False,False,,False
 kbin.tenkuu.social,suspend,False,False,,False
 kemetic.space,suspend,False,False,,False
 kimberlychase.com,suspend,False,False,,False
@@ -403,9 +409,11 @@ lgbt.io,suspend,False,False,,False
 lgbtcz.social,suspend,False,False,,False
 lgbtppl.com,suspend,False,False,,False
 lgbtqia.space,suspend,False,False,,False
+lgbtqplus.social,suspend,False,False,,False
 liaamancio.com.br,suspend,False,False,,False
 lib.lgbt,suspend,False,False,,False
 liberal.lgbt,suspend,False,False,,False
+libranet.de,suspend,False,False,,False
 library.tonybark.art,suspend,False,False,,False
 lighttheunicorn.horse,suspend,False,False,,False
 lily.network,suspend,False,False,,False
@@ -693,7 +701,6 @@ relay.lea.pet,suspend,False,False,,False
 relay.social.0x68756773.moe,suspend,False,False,,False
 relay.todon.eu,suspend,False,False,,False
 relay.universeodon.com,suspend,False,False,,False
-relay.worm.pink,suspend,False,False,,False
 religion.masto.host,suspend,False,False,,False
 replicants.cafe,suspend,False,False,,False
 respiroaventura.com.br,suspend,False,False,,False
@@ -812,12 +819,14 @@ spooky.academy,suspend,False,False,,False
 squad.town,suspend,False,False,,False
 squid.cafe,suspend,False,False,,False
 stage.pixelfed.de,suspend,False,False,,False
+stage.social.cologne,suspend,False,False,,False
 stargate.pbcarrara.com.br,suspend,False,False,,False
 stctp.zone,suspend,False,False,,False
 stereophonic.space,suspend,False,False,,False
 stgregus.masto.host,suspend,False,False,,False
 stop.voring.me,suspend,False,False,,False
 strangeobject.space,suspend,False,False,,False
+stream.gamedev.lgbt,suspend,False,False,,False
 stream.sleepy.ink,suspend,False,False,,False
 stream.zerojay.com,suspend,False,False,,False
 streaming.gnieh.org,suspend,False,False,,False
