@@ -7,6 +7,8 @@ blahaj.zone,suspend,False,False,,False
 blog.woof.group,suspend,False,False,,False
 blog.zerojay.com,suspend,False,False,,False
 colorid.es,suspend,False,False,,False
+cyberpunk.lol,suspend,False,False,,False
+demiboy.gay,suspend,False,False,,False
 eldritch.cafe,suspend,False,False,,False
 envs.net,suspend,False,False,,False
 fediblock.ing,suspend,False,False,,False
@@ -17,11 +19,15 @@ h-i.social,suspend,False,False,,False
 hktest.blahaj.zone,suspend,False,False,,False
 home.oliphant.social,suspend,False,False,,False
 indiepocalypse.social,suspend,False,False,,False
+infosec.space,suspend,False,False,,False
 kolektiva.social,suspend,False,False,,False
+lazybear.social,suspend,False,False,,False
 lemmy.blahaj.zone,suspend,False,False,,False
 mastodon.art,suspend,False,False,,False
 mastodon.bentasker.co.uk,suspend,False,False,,False
+mastodon.weber.fi.eu.org,suspend,False,False,,False
 matrix.envs.net,suspend,False,False,,False
+mstdn.plus.st,suspend,False,False,,False
 mstdn.social,suspend,False,False,,False
 oliphant.social,suspend,False,False,,False
 pipou.academy,suspend,False,False,,False
@@ -29,6 +35,7 @@ pixel.zerojay.com,suspend,False,False,,False
 pleroma.envs.net,suspend,False,False,,False
 pleroma.flussence.eu,suspend,False,False,,False
 pyrox.dev,suspend,False,False,,False
+queer.group,suspend,False,False,,False
 rage.love,suspend,False,False,,False
 scholar.social,suspend,False,False,,False
 searx.envs.net,suspend,False,False,,False
