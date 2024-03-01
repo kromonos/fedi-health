@@ -34,7 +34,6 @@ blahaj.social,suspend,False,False,,False
 blahaj.world,suspend,False,False,,False
 blahaj.zone,suspend,False,False,,False
 blog.bantu.social,suspend,False,False,,False
-blog.garillaz.fr.eu.org,suspend,False,False,,False
 blog.marud.fr,suspend,False,False,,False
 blog.tonybark.art,suspend,False,False,,False
 blog.tonybark.com,suspend,False,False,,False
@@ -113,6 +112,7 @@ hachyderm.io,suspend,False,False,,False
 hackers.town,suspend,False,False,,False
 haqueers.com,suspend,False,False,,False
 hellsite.site,suspend,False,False,,False
+hispagatos.space,suspend,False,False,,False
 hktest.blahaj.zone,suspend,False,False,,False
 home.oliphant.social,suspend,False,False,,False
 homebrew.masto.host,suspend,False,False,,False
@@ -168,6 +168,7 @@ mastodon.gal,suspend,False,False,,False
 mastodon.geekcorner.eu.org,suspend,False,False,,False
 mastodon.guerilla.studio,suspend,False,False,,False
 mastodon.ie,suspend,False,False,,False
+mastodon.jawa.moe,suspend,False,False,,False
 mastodon.lilysthings.org,suspend,False,False,,False
 mastodon.neat.computer,suspend,False,False,,False
 mastodon.nz,suspend,False,False,,False
@@ -219,7 +220,6 @@ paktodon.asia,suspend,False,False,,False
 pandas.social,suspend,False,False,,False
 paws.town,suspend,False,False,,False
 petlover.eu.org,suspend,False,False,,False
-phocks.eu.org,suspend,False,False,,False
 pipou.academy,suspend,False,False,,False
 pixel.zerojay.com,suspend,False,False,,False
 pl.hyperboreal.zone,suspend,False,False,,False
@@ -253,7 +253,6 @@ rage.love,suspend,False,False,,False
 ramen-fsm.eu.org,suspend,False,False,,False
 redpawcollective.co,suspend,False,False,,False
 relay.todon.eu,suspend,False,False,,False
-relay.worm.pink,suspend,False,False,,False
 retro.pizza,suspend,False,False,,False
 reverie.masto.host,suspend,False,False,,False
 revivalists.masto.host,suspend,False,False,,False
