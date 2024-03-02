@@ -11,9 +11,9 @@ You are encouraged to use these lists if you find them useful.
 
 ## What's The Purpose Here?
 
-We see issues from the same servers, over and over again. Since most blocklists only blocks based on personal grudges,
-this one is meant to create a safer space for people already struggling with mental disorders, like PTSD, major
-depression, borderline, who don't want to get involved in a bitch fight of other instances.
+We see issues from the same servers, over and over again. Since most blocklists, which are led by demagogues, only
+blocks based on personal grudges, this one is meant to create a safer space for people already struggling with mental
+disorders, like PTSD, major depression, borderline, who don't want to get involved in a bitch fight of other instances.
 
 This is our best guess of the kinds of blocks you might need to keep the fedi safe.  
 
@@ -40,4 +40,6 @@ If you need more details about an instance, feel free to use the search at the [
 ## Advantages
 
 Unlike other known blocklists, in this one, instances that are no longer reachable are automatically removed. This means
-that only very few instance cadavers are imported.
+that only very few instance cadavers are imported. Furthermore, we do not automatically include the main domain, but
+only the domain that actually runs the ActivityPub compatible software!  
+Anything else would be defamation, which we would **not join** in and will do better than other, well-known blocklists.
