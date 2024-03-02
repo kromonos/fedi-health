@@ -346,7 +346,6 @@ marv1n.me,suspend,False,False,,False
 mas.todon.de,suspend,False,False,,False
 mast.eu.org,suspend,False,False,,False
 masto.donte.com.br,suspend,False,False,,False
-masto.host,suspend,False,False,,False
 masto.lema.org,suspend,False,False,,False
 masto.queerscience.net,suspend,False,False,,False
 mastobate.social,suspend,False,False,,False
@@ -541,17 +540,14 @@ relay.infosec.exchange,suspend,False,False,,False
 relay.lea.pet,suspend,False,False,,False
 relay.social.0x68756773.moe,suspend,False,False,,False
 relay.todon.eu,suspend,False,False,,False
-relay.worm.pink,suspend,False,False,,False
 replicants.cafe,suspend,False,False,,False
 respiroaventura.com.br,suspend,False,False,,False
 retro.pizza,suspend,False,False,,False
 retro.social,suspend,False,False,,False
 reverie.masto.host,suspend,False,False,,False
-revivalists.masto.host,suspend,False,False,,False
 richard.directory,suspend,False,False,,False
 ricko.social,suspend,False,False,,False
 riemann.social,suspend,False,False,,False
-rococo.masto.host,suspend,False,False,,False
 romeros.link,suspend,False,False,,False
 rouge.eu.org,suspend,False,False,,False
 rwn.lol,suspend,False,False,,False
@@ -585,6 +581,7 @@ soc.jrconlin.com,suspend,False,False,,False
 soc.ottr.uk,suspend,False,False,,False
 soc.pyrox.dev,suspend,False,False,,False
 soc.saiyajin.space,suspend,False,False,,False
+social.afront.org,suspend,False,False,,False
 social.arazil.net,suspend,False,False,,False
 social.bugarin.com.br,suspend,False,False,,False
 social.cherrykitten.dev,suspend,False,False,,False
@@ -707,7 +704,6 @@ tube.denton.social,suspend,False,False,,False
 tube.others.social,suspend,False,False,,False
 tube.todon.eu,suspend,False,False,,False
 tucson.social,suspend,False,False,,False
-turh.masto.host,suspend,False,False,,False
 tv.blahaj.world,suspend,False,False,,False
 tweesecake.social,suspend,False,False,,False
 twinports.us,suspend,False,False,,False
