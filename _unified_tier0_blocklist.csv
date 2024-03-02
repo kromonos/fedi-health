@@ -1,8 +1,6 @@
 domain,severity,reject_media,reject_reports,public_comment,obfuscate
 a.blahaj.world,suspend,False,False,,False
-agencycollective.masto.host,suspend,False,False,,False
 ailbhean.co-shaoghal.net,suspend,False,False,,False
-amigosblasterradio.masto.host,suspend,False,False,,False
 apobangpo.space,suspend,False,False,,False
 artisan.chat,suspend,False,False,,False
 asbestos.cafe,suspend,False,False,,False
@@ -25,6 +23,7 @@ blahaj.social,suspend,False,False,,False
 blahaj.world,suspend,False,False,,False
 blahaj.zone,suspend,False,False,,False
 blog.bantu.social,suspend,False,False,,False
+blog.garillaz.fr.eu.org,suspend,False,False,,False
 blog.marud.fr,suspend,False,False,,False
 blog.tonybark.com,suspend,False,False,,False
 blog.woof.group,suspend,False,False,,False
@@ -75,7 +74,6 @@ hachyderm.io,suspend,False,False,,False
 haqueers.com,suspend,False,False,,False
 hktest.blahaj.zone,suspend,False,False,,False
 home.oliphant.social,suspend,False,False,,False
-homebrew.masto.host,suspend,False,False,,False
 icosahedron.website,suspend,False,False,,False
 inaccessible.ac,suspend,False,False,,False
 indiepocalypse.social,suspend,False,False,,False
@@ -137,17 +135,14 @@ neurodifferent.me,suspend,False,False,,False
 nixie.name,suspend,False,False,,False
 nofear.masto.host,suspend,False,False,,False
 nogrizzlybear.masto.host,suspend,False,False,,False
-nonprofits.masto.host,suspend,False,False,,False
 nrw.social,suspend,False,False,,False
 oliphant.social,suspend,False,False,,False
-orbsafe.masto.host,suspend,False,False,,False
 osintunleashed.masto.host,suspend,False,False,,False
 petlover.eu.org,suspend,False,False,,False
 pipou.academy,suspend,False,False,,False
 pixel.zerojay.com,suspend,False,False,,False
 pleroma.envs.net,suspend,False,False,,False
 pleroma.flussence.eu,suspend,False,False,,False
-polaris.masto.host,suspend,False,False,,False
 pony.social,suspend,False,False,,False
 praesentia.masto.host,suspend,False,False,,False
 prowrestling.masto.host,suspend,False,False,,False
@@ -171,6 +166,7 @@ queernerds.social,suspend,False,False,,False
 queerspirituality.social,suspend,False,False,,False
 rage.love,suspend,False,False,,False
 ramen-fsm.eu.org,suspend,False,False,,False
+revivalists.masto.host,suspend,False,False,,False
 romeros.link,suspend,False,False,,False
 rouge.eu.org,suspend,False,False,,False
 scholar.social,suspend,False,False,,False

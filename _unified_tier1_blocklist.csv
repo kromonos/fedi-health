@@ -6,7 +6,6 @@ a.tela.moe,suspend,False,False,,False
 about.iftas.org,suspend,False,False,,False
 activityrelay.beep.computer,suspend,False,False,,False
 afterspace.rocks,suspend,False,False,,False
-agencycollective.masto.host,suspend,False,False,,False
 ailbhean.co-shaoghal.net,suspend,False,False,,False
 akko.chir.rs,suspend,False,False,,False
 akko.disqordia.space,suspend,False,False,,False
@@ -19,7 +18,6 @@ akkoma.test.lauka.eu.org,suspend,False,False,,False
 alaskan.social,suspend,False,False,,False
 alphabetica.masto.host,suspend,False,False,,False
 amenti.eu.org,suspend,False,False,,False
-amigosblasterradio.masto.host,suspend,False,False,,False
 anarchy.center,suspend,False,False,,False
 anarkis.net,suspend,False,False,,False
 anarres.family,suspend,False,False,,False
@@ -136,7 +134,6 @@ cutie.city,suspend,False,False,,False
 cybermage.sh,suspend,False,False,,False
 cyberpunk.lol,suspend,False,False,,False
 cytag.nl,suspend,False,False,,False
-datak.duckdns.org,suspend,False,False,,False
 decentralis.social,suspend,False,False,,False
 deep13.social,suspend,False,False,,False
 demiboy.gay,suspend,False,False,,False
@@ -254,7 +251,6 @@ hispagatos.space,suspend,False,False,,False
 hktest.blahaj.zone,suspend,False,False,,False
 hoihoi.superboi.eu.org,suspend,False,False,,False
 home.oliphant.social,suspend,False,False,,False
-homebrew.masto.host,suspend,False,False,,False
 hub.volse.no,suspend,False,False,,False
 icosahedron.website,suspend,False,False,,False
 ilyamikcoder.com,suspend,False,False,,False
@@ -274,7 +270,6 @@ infosec.space,suspend,False,False,,False
 infosec.town,suspend,False,False,,False
 inherently.digital,suspend,False,False,,False
 introvert.social,suspend,False,False,,False
-io.waxandleather.com,suspend,False,False,,False
 is-a.cat,suspend,False,False,,False
 is.nota.live,suspend,False,False,,False
 is1.sowhat.jp.eu.org,suspend,False,False,,False
@@ -446,7 +441,6 @@ nixos.paris,suspend,False,False,,False
 node.isonomia.net,suspend,False,False,,False
 nofear.masto.host,suspend,False,False,,False
 nogrizzlybear.masto.host,suspend,False,False,,False
-nonprofits.masto.host,suspend,False,False,,False
 noods.fun,suspend,False,False,,False
 nostream.mastodon.uno,suspend,False,False,,False
 notes.tapenoise.cafe,suspend,False,False,,False
@@ -457,9 +451,7 @@ nyan.network,suspend,False,False,,False
 old.mermaid.town,suspend,False,False,,False
 oliphant.social,suspend,False,False,,False
 ondergrond.org,suspend,False,False,,False
-oraclespace.masto.host,suspend,False,False,,False
 orbitalstation.one,suspend,False,False,,False
-orbsafe.masto.host,suspend,False,False,,False
 osintunleashed.masto.host,suspend,False,False,,False
 ouroboros.gay,suspend,False,False,,False
 paiokay.com.br,suspend,False,False,,False
@@ -497,7 +489,6 @@ pleroma.envs.net,suspend,False,False,,False
 pleroma.flussence.eu,suspend,False,False,,False
 pmagazinedigital.com.br,suspend,False,False,,False
 podcast.infosec.exchange,suspend,False,False,,False
-polaris.masto.host,suspend,False,False,,False
 pont-bl.eu.org,suspend,False,False,,False
 pony.social,suspend,False,False,,False
 possum.city,suspend,False,False,,False
@@ -508,7 +499,6 @@ problemes.eu.org,suspend,False,False,,False
 procursus.social,suspend,False,False,,False
 prowrestling.masto.host,suspend,False,False,,False
 pt.ilyamikcoder.com,suspend,False,False,,False
-punkland.masto.host,suspend,False,False,,False
 pupy.cafe,suspend,False,False,,False
 pxlfd.plus,suspend,False,False,,False
 pynews.com.br,suspend,False,False,,False
@@ -545,6 +535,7 @@ respiroaventura.com.br,suspend,False,False,,False
 retro.pizza,suspend,False,False,,False
 retro.social,suspend,False,False,,False
 reverie.masto.host,suspend,False,False,,False
+revivalists.masto.host,suspend,False,False,,False
 richard.directory,suspend,False,False,,False
 ricko.social,suspend,False,False,,False
 riemann.social,suspend,False,False,,False
@@ -619,7 +610,6 @@ social.treehouse.systems,suspend,False,False,,False
 social.unx.pw,suspend,False,False,,False
 social.xenofem.me,suspend,False,False,,False
 social.zerojay.com,suspend,False,False,,False
-social.zym.lol,suspend,False,False,,False
 sociale.network,suspend,False,False,,False
 socialtest.marud.fr,suspend,False,False,,False
 socialwagrien.de,suspend,False,False,,False
