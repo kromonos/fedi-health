@@ -1,5 +1,4 @@
 domain,severity,reject_media,reject_reports,public_comment,obfuscate
-a.blahaj.world,suspend,False,False,,False
 ailbhean.co-shaoghal.net,suspend,False,False,,False
 apobangpo.space,suspend,False,False,,False
 artisan.chat,suspend,False,False,,False
@@ -129,12 +128,11 @@ mstdn.party,suspend,False,False,,False
 mstdn.plus,suspend,False,False,,False
 mstdn.plus.st,suspend,False,False,,False
 mstdn.social,suspend,False,False,,False
+muenchen.social,suspend,False,False,,False
 neat.computer,suspend,False,False,,False
 netzkae.se,suspend,False,False,,False
 neurodifferent.me,suspend,False,False,,False
 nixie.name,suspend,False,False,,False
-nofear.masto.host,suspend,False,False,,False
-nogrizzlybear.masto.host,suspend,False,False,,False
 nrw.social,suspend,False,False,,False
 oliphant.social,suspend,False,False,,False
 osintunleashed.masto.host,suspend,False,False,,False
@@ -145,7 +143,6 @@ pleroma.envs.net,suspend,False,False,,False
 pleroma.flussence.eu,suspend,False,False,,False
 pony.social,suspend,False,False,,False
 praesentia.masto.host,suspend,False,False,,False
-prowrestling.masto.host,suspend,False,False,,False
 pupy.cafe,suspend,False,False,,False
 pyrox.dev,suspend,False,False,,False
 queer-lexikon.net,suspend,False,False,,False
@@ -196,7 +193,6 @@ stgregus.masto.host,suspend,False,False,,False
 strangeobject.space,suspend,False,False,,False
 stream.zerojay.com,suspend,False,False,,False
 streaming.gnieh.org,suspend,False,False,,False
-success.masto.host,suspend,False,False,,False
 sunny.garden,suspend,False,False,,False
 tagpro.lol,suspend,False,False,,False
 tapenoise.cafe,suspend,False,False,,False
