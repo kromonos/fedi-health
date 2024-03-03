@@ -135,6 +135,7 @@ carfree.city,suspend,False,False,,False
 cassano.com.br,suspend,False,False,,False
 casually.cat,suspend,False,False,,False
 catcatnya.com,suspend,False,False,,False
+catdog.masto.host,suspend,False,False,,False
 categoryurls.eu.org,suspend,False,False,,False
 cathode.church,suspend,False,False,,False
 cawfee.club,suspend,False,False,,False
@@ -284,7 +285,6 @@ freespeechextremist.com,suspend,False,False,,False
 freethinkers.lgbt,suspend,False,False,,False
 frfsh.plus.st,suspend,False,False,,False
 fri.bitcast.info,suspend,False,False,,False
-friendhole.masto.host,suspend,False,False,,False
 friendica.mrpetovan.com,suspend,False,False,,False
 friendica.opensocial.space,suspend,False,False,,False
 friendis.masto.host,suspend,False,False,,False
@@ -659,6 +659,7 @@ old.mermaid.town,suspend,False,False,,False
 oliphant.social,suspend,False,False,,False
 olkichat.duckdns.org,suspend,False,False,,False
 ondergrond.org,suspend,False,False,,False
+oraclespace.masto.host,suspend,False,False,,False
 orbitalstation.one,suspend,False,False,,False
 orbsafe.masto.host,suspend,False,False,,False
 orchard.social,suspend,False,False,,False
@@ -767,6 +768,7 @@ relay.lea.pet,suspend,False,False,,False
 relay.social.0x68756773.moe,suspend,False,False,,False
 relay.todon.eu,suspend,False,False,,False
 relay.universeodon.com,suspend,False,False,,False
+relay.worm.pink,suspend,False,False,,False
 relay2.sabross.xyz,suspend,False,False,,False
 replicants.cafe,suspend,False,False,,False
 respiroaventura.com.br,suspend,False,False,,False
@@ -940,6 +942,7 @@ test.oliphant.social,suspend,False,False,,False
 test.pixelfed.de,suspend,False,False,,False
 test.queer.group,suspend,False,False,,False
 test72.eu.org,suspend,False,False,,False
+testdrive.masto.host,suspend,False,False,,False
 testy.blahaj.zone,suspend,False,False,,False
 texasobserver.social,suspend,False,False,,False
 textos.bugarin.com.br,suspend,False,False,,False
