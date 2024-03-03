@@ -307,6 +307,7 @@ jawa.moe,suspend,False,False,,False
 jebba.moe,suspend,False,False,,False
 jittr.click,suspend,False,False,,False
 joeydrew.studio,suspend,False,False,,False
+jotboard.masto.host,suspend,False,False,,False
 jubart.com.br,suspend,False,False,,False
 jubi.life,suspend,False,False,,False
 k.iim.gay,suspend,False,False,,False
@@ -320,7 +321,6 @@ kiwi.soda.jp.eu.org,suspend,False,False,,False
 kolektiva.social,suspend,False,False,,False
 kookie.com.br,suspend,False,False,,False
 korallenherz.masto.host,suspend,False,False,,False
-krapp.masto.host,suspend,False,False,,False
 lagemeet.duckdns.org,suspend,False,False,,False
 larkspur.one,suspend,False,False,,False
 lazybear.social,suspend,False,False,,False
@@ -687,7 +687,6 @@ social.treehouse.systems,suspend,False,False,,False
 social.unx.pw,suspend,False,False,,False
 social.xenofem.me,suspend,False,False,,False
 social.zerojay.com,suspend,False,False,,False
-social.zym.lol,suspend,False,False,,False
 sociale.network,suspend,False,False,,False
 socialtest.marud.fr,suspend,False,False,,False
 socialwagrien.de,suspend,False,False,,False
@@ -701,7 +700,6 @@ spooky.academy,suspend,False,False,,False
 squad.town,suspend,False,False,,False
 squid.cafe,suspend,False,False,,False
 stage.pixelfed.de,suspend,False,False,,False
-stanzayings.duckdns.org,suspend,False,False,,False
 stargate.pbcarrara.com.br,suspend,False,False,,False
 stctp.zone,suspend,False,False,,False
 stereophonic.space,suspend,False,False,,False
