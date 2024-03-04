@@ -2,8 +2,9 @@
 
 ## The Tier System
 
-Tiers will reflect blocklist size, with higher tiers having larger blocklists and being based on an abuse score system.  
-The lower the tier, the higher the minimum abuse score needed to get on this list.  
+Tiers will reflect blocklist size, with higher tiers having larger blocklists and being based on an abuse score system.
+The lower the tier, the higher the minimum abuse score needed to get on this list.
+
 For example, Tier 0 contains only instances, with an abuse score higher than 2000 and can be considered the worst of
 the worst.  
 
