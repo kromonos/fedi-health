@@ -43,3 +43,8 @@ Unlike other known blocklists, in this one, instances that are no longer reachab
 that only very few instance cadavers are imported. Furthermore, we do not automatically include the main domain, but
 only the domain that actually runs the ActivityPub compatible software!  
 Anything else would be defamation, which we would **not join** in and will do better than other, well-known blocklists.
+
+## Dual Hosting
+
+The main repository is hosted with [GitLab](https://git.bka.li/kromonos/fedi-health) and mirrored from there to 
+[GitHub](https://github.com/kromonos/fedi-health).
