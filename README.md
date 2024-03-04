@@ -6,7 +6,8 @@ Tiers will reflect blocklist size, with higher tiers having larger blocklists an
 The lower the tier, the higher the minimum abuse score needed to get on this list.
 
 For example, Tier 0 contains only instances, with an abuse score higher than 2000 and can be considered the worst of
-the worst.  
+the worst. Tier 3 contains all instances, with an abuse score higher than 750 and should only be used, if you're very
+easy to trigger, as Tier 3 is very restrictive.
 
 You are encouraged to use these lists if you find them useful.
 
