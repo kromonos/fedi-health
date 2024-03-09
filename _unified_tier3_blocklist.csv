@@ -24,6 +24,7 @@ amenti.eu.org,suspend,False,False,,False
 anarchy.center,suspend,False,False,,False
 anarkis.net,suspend,False,False,,False
 anarres.family,suspend,False,False,,False
+andrew.masto.host,suspend,False,False,,False
 antabaka.me,suspend,False,False,,False
 antani.pm,suspend,False,False,,False
 anticapitalist.party,suspend,False,False,,False
@@ -45,7 +46,6 @@ aus.lgbt,suspend,False,False,,False
 aus.social,suspend,False,False,,False
 avatastic.uk,suspend,False,False,,False
 avery.garden,suspend,False,False,,False
-averyfun.party,suspend,False,False,,False
 avpd.social,suspend,False,False,,False
 awkward.company,suspend,False,False,,False
 awoo.fai.st,suspend,False,False,,False
@@ -129,10 +129,10 @@ calckey.tenkuu.social,suspend,False,False,,False
 cambrian.social,suspend,False,False,,False
 canerduh.ca,suspend,False,False,,False
 carfree.city,suspend,False,False,,False
+caseitor.masto.host,suspend,False,False,,False
 cassano.com.br,suspend,False,False,,False
 casually.cat,suspend,False,False,,False
 catcatnya.com,suspend,False,False,,False
-catdog.masto.host,suspend,False,False,,False
 categoryurls.eu.org,suspend,False,False,,False
 cathode.church,suspend,False,False,,False
 cawfee.club,suspend,False,False,,False
@@ -276,6 +276,7 @@ freespeechextremist.com,suspend,False,False,,False
 freethinkers.lgbt,suspend,False,False,,False
 frfsh.plus.st,suspend,False,False,,False
 fri.bitcast.info,suspend,False,False,,False
+friendhole.masto.host,suspend,False,False,,False
 friendica.mrpetovan.com,suspend,False,False,,False
 friendica.opensocial.space,suspend,False,False,,False
 friends.joinfediverse.online,suspend,False,False,,False
@@ -408,6 +409,7 @@ lazybear.social,suspend,False,False,,False
 lea.lgbt,suspend,False,False,,False
 lea.pet,suspend,False,False,,False
 leafposter.club,suspend,False,False,,False
+lediomar.masto.host,suspend,False,False,,False
 lemmy.blahaj.zone,suspend,False,False,,False
 lemmy.brennoflavio.com.br,suspend,False,False,,False
 lemmy.dbzer0.com,suspend,False,False,,False
@@ -902,6 +904,7 @@ test.oliphant.social,suspend,False,False,,False
 test.pixelfed.de,suspend,False,False,,False
 test.queer.group,suspend,False,False,,False
 test72.eu.org,suspend,False,False,,False
+testdrive.masto.host,suspend,False,False,,False
 testy.blahaj.zone,suspend,False,False,,False
 texasobserver.social,suspend,False,False,,False
 textos.bugarin.com.br,suspend,False,False,,False
