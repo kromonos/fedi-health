@@ -131,6 +131,7 @@ carfree.city,suspend,False,False,,False
 cassano.com.br,suspend,False,False,,False
 casually.cat,suspend,False,False,,False
 catcatnya.com,suspend,False,False,,False
+catdog.masto.host,suspend,False,False,,False
 categoryurls.eu.org,suspend,False,False,,False
 cathode.church,suspend,False,False,,False
 cawfee.club,suspend,False,False,,False
@@ -383,7 +384,6 @@ jawa.moe,suspend,False,False,,False
 jebba.moe,suspend,False,False,,False
 jittr.click,suspend,False,False,,False
 joeydrew.studio,suspend,False,False,,False
-jotboard.masto.host,suspend,False,False,,False
 jubart.com.br,suspend,False,False,,False
 jubi.life,suspend,False,False,,False
 k.iim.gay,suspend,False,False,,False
@@ -400,7 +400,6 @@ koehlercode.dev,suspend,False,False,,False
 kolektiva.media,suspend,False,False,,False
 kolektiva.social,suspend,False,False,,False
 kookie.com.br,suspend,False,False,,False
-krapp.masto.host,suspend,False,False,,False
 lagemeet.duckdns.org,suspend,False,False,,False
 lamp.wtf,suspend,False,False,,False
 larkspur.one,suspend,False,False,,False
@@ -638,6 +637,7 @@ orchard.social,suspend,False,False,,False
 ouroboros.gay,suspend,False,False,,False
 outdoors.lgbt,suspend,False,False,,False
 overctrl.dbzer0.com,suspend,False,False,,False
+owncast.retronerd.at,suspend,False,False,,False
 owo.is,suspend,False,False,,False
 p.changeme.fr.eu.org,suspend,False,False,,False
 pagan.plus,suspend,False,False,,False
@@ -673,6 +673,7 @@ pixelfed.art,suspend,False,False,,False
 pixelfed.com.br,suspend,False,False,,False
 pixelfed.de,suspend,False,False,,False
 pixelfed.meerjungfrauengrotte.de,suspend,False,False,,False
+pixelfed.retronerd.at,suspend,False,False,,False
 pixelfed.social,suspend,False,False,,False
 pixelfed.yojik.net,suspend,False,False,,False
 pixie.town,suspend,False,False,,False
@@ -730,6 +731,7 @@ relay.fediverse.eu.org,suspend,False,False,,False
 relay.hooves.social,suspend,False,False,,False
 relay.infosec.exchange,suspend,False,False,,False
 relay.lea.pet,suspend,False,False,,False
+relay.retronerd.at,suspend,False,False,,False
 relay.social.0x68756773.moe,suspend,False,False,,False
 relay.todon.eu,suspend,False,False,,False
 relay2.sabross.xyz,suspend,False,False,,False
@@ -737,7 +739,6 @@ replicants.cafe,suspend,False,False,,False
 respiroaventura.com.br,suspend,False,False,,False
 retro.pizza,suspend,False,False,,False
 retro.social,suspend,False,False,,False
-revivalists.masto.host,suspend,False,False,,False
 richard.directory,suspend,False,False,,False
 ricko.social,suspend,False,False,,False
 riemann.social,suspend,False,False,,False
@@ -993,7 +994,6 @@ woof.archandle.net,suspend,False,False,,False
 woof.group,suspend,False,False,,False
 words.tacowolf.net,suspend,False,False,,False
 worm.pink,suspend,False,False,,False
-write.freethinkers.lgbt,suspend,False,False,,False
 write.indiepocalypse.social,suspend,False,False,,False
 write.plasmatrap.com,suspend,False,False,,False
 write.storydragon.nl,suspend,False,False,,False
@@ -1013,6 +1013,7 @@ xim.ca,suspend,False,False,,False
 yall.theatl.social,suspend,False,False,,False
 yiff.life,suspend,False,False,,False
 yt.hwl.li,suspend,False,False,,False
+ytube.retronerd.at,suspend,False,False,,False
 zacpwhite.social,suspend,False,False,,False
 zeal.center,suspend,False,False,,False
 zoner.gay,suspend,False,False,,False
