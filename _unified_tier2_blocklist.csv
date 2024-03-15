@@ -64,7 +64,6 @@ bird.zerojay.com,suspend,False,False,,False
 birdsite.blahaj.social,suspend,False,False,,False
 birdsite.joeydrew.studio,suspend,False,False,,False
 biscuit.town,suspend,False,False,,False
-bitcast.info,suspend,False,False,,False
 blackqueer.life,suspend,False,False,,False
 bladerunner.social,suspend,False,False,,False
 blahaj.eu,suspend,False,False,,False
@@ -121,7 +120,6 @@ carfree.city,suspend,False,False,,False
 cassano.com.br,suspend,False,False,,False
 casually.cat,suspend,False,False,,False
 catcatnya.com,suspend,False,False,,False
-catdog.masto.host,suspend,False,False,,False
 categoryurls.eu.org,suspend,False,False,,False
 cathode.church,suspend,False,False,,False
 cawfee.club,suspend,False,False,,False
@@ -332,6 +330,7 @@ jawa.moe,suspend,False,False,,False
 jebba.moe,suspend,False,False,,False
 jittr.click,suspend,False,False,,False
 joeydrew.studio,suspend,False,False,,False
+jotboard.masto.host,suspend,False,False,,False
 jubart.com.br,suspend,False,False,,False
 jubi.life,suspend,False,False,,False
 k.iim.gay,suspend,False,False,,False
@@ -345,6 +344,7 @@ kiwi.soda.jp.eu.org,suspend,False,False,,False
 koehlercode.dev,suspend,False,False,,False
 kolektiva.social,suspend,False,False,,False
 kookie.com.br,suspend,False,False,,False
+krapp.masto.host,suspend,False,False,,False
 lagemeet.duckdns.org,suspend,False,False,,False
 larkspur.one,suspend,False,False,,False
 lazybear.social,suspend,False,False,,False
@@ -394,6 +394,7 @@ lustigetiernamenbubble.de,suspend,False,False,,False
 luzeed.org,suspend,False,False,,False
 lyingvoid.social,suspend,False,False,,False
 m.feyo.pw,suspend,False,False,,False
+m.noxie.ch,suspend,False,False,,False
 madameplay.com.br,suspend,False,False,,False
 magicalgirl.party,suspend,False,False,,False
 malenfant.net,suspend,False,False,,False
@@ -635,6 +636,7 @@ replicants.cafe,suspend,False,False,,False
 respiroaventura.com.br,suspend,False,False,,False
 retro.pizza,suspend,False,False,,False
 retro.social,suspend,False,False,,False
+revivalists.masto.host,suspend,False,False,,False
 richard.directory,suspend,False,False,,False
 ricko.social,suspend,False,False,,False
 riemann.social,suspend,False,False,,False
