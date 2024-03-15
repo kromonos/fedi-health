@@ -131,7 +131,6 @@ carfree.city,suspend,False,False,,False
 cassano.com.br,suspend,False,False,,False
 casually.cat,suspend,False,False,,False
 catcatnya.com,suspend,False,False,,False
-catdog.masto.host,suspend,False,False,,False
 categoryurls.eu.org,suspend,False,False,,False
 cathode.church,suspend,False,False,,False
 cawfee.club,suspend,False,False,,False
@@ -216,7 +215,6 @@ embracing.space,suspend,False,False,,False
 enby.life,suspend,False,False,,False
 envs.net,suspend,False,False,,False
 equestria.social,suspend,False,False,,False
-eso-rollenspiel.de,suspend,False,False,,False
 estrogen.network,suspend,False,False,,False
 event.tchncs.de,suspend,False,False,,False
 eventos.institutohiphopcriciumense.com.br,suspend,False,False,,False
@@ -277,6 +275,8 @@ frfsh.plus.st,suspend,False,False,,False
 fri.bitcast.info,suspend,False,False,,False
 friendica.mrpetovan.com,suspend,False,False,,False
 friendica.opensocial.space,suspend,False,False,,False
+friendica.retronerd.at,suspend,False,False,,False
+friendlica.de,suspend,False,False,,False
 friends.joinfediverse.online,suspend,False,False,,False
 frogs.lgbt,suspend,False,False,,False
 fruef.social,suspend,False,False,,False
@@ -384,6 +384,7 @@ jawa.moe,suspend,False,False,,False
 jebba.moe,suspend,False,False,,False
 jittr.click,suspend,False,False,,False
 joeydrew.studio,suspend,False,False,,False
+jotboard.masto.host,suspend,False,False,,False
 jubart.com.br,suspend,False,False,,False
 jubi.life,suspend,False,False,,False
 k.iim.gay,suspend,False,False,,False
@@ -526,6 +527,7 @@ mastodon.raleurs.eu.org,suspend,False,False,,False
 mastodon.redgarterclub.com,suspend,False,False,,False
 mastodon.sandwich.net,suspend,False,False,,False
 mastodon.scot,suspend,False,False,,False
+mastodon.sleeping.town,suspend,False,False,,False
 mastodon.social,suspend,False,False,,False
 mastodon.stickbear.me,suspend,False,False,,False
 mastodon.technology,suspend,False,False,,False
@@ -632,6 +634,7 @@ old.mermaid.town,suspend,False,False,,False
 oliphant.social,suspend,False,False,,False
 olkichat.duckdns.org,suspend,False,False,,False
 ondergrond.org,suspend,False,False,,False
+oraclespace.masto.host,suspend,False,False,,False
 orbitalstation.one,suspend,False,False,,False
 orchard.social,suspend,False,False,,False
 ouroboros.gay,suspend,False,False,,False
@@ -892,7 +895,6 @@ tenforward.social,suspend,False,False,,False
 termine.schraepler.de,suspend,False,False,,False
 terrible.city,suspend,False,False,,False
 terror.black,suspend,False,False,,False
-teso-rollenspiel.de,suspend,False,False,,False
 test.hooves.social,suspend,False,False,,False
 test.oliphant.social,suspend,False,False,,False
 test.pixelfed.de,suspend,False,False,,False
@@ -928,7 +930,6 @@ toot.funami.tech,suspend,False,False,,False
 toot.garden,suspend,False,False,,False
 toot.houbahouba.de,suspend,False,False,,False
 toot.lgbt,suspend,False,False,,False
-toot.matereal.eu,suspend,False,False,,False
 toot.queer-lexikon.net,suspend,False,False,,False
 toot.si,suspend,False,False,,False
 toot.wales,suspend,False,False,,False
