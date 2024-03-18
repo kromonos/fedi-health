@@ -42,6 +42,7 @@ audio.solarpunk.moe,suspend,False,False,,False
 aus.lgbt,suspend,False,False,,False
 aus.social,suspend,False,False,,False
 avatastic.uk,suspend,False,False,,False
+averyfun.party,suspend,False,False,,False
 avery.garden,suspend,False,False,,False
 avpd.social,suspend,False,False,,False
 awkward.company,suspend,False,False,,False
@@ -382,7 +383,6 @@ jawa.moe,suspend,False,False,,False
 jebba.moe,suspend,False,False,,False
 jittr.click,suspend,False,False,,False
 joeydrew.studio,suspend,False,False,,False
-jotboard.masto.host,suspend,False,False,,False
 jubart.com.br,suspend,False,False,,False
 jubi.life,suspend,False,False,,False
 kafeneio.social,suspend,False,False,,False
@@ -399,7 +399,6 @@ koehlercode.dev,suspend,False,False,,False
 kolektiva.media,suspend,False,False,,False
 kolektiva.social,suspend,False,False,,False
 kookie.com.br,suspend,False,False,,False
-krapp.masto.host,suspend,False,False,,False
 lagemeet.duckdns.org,suspend,False,False,,False
 lamp.wtf,suspend,False,False,,False
 larkspur.one,suspend,False,False,,False
@@ -633,7 +632,6 @@ old.mermaid.town,suspend,False,False,,False
 oliphant.social,suspend,False,False,,False
 olkichat.duckdns.org,suspend,False,False,,False
 ondergrond.org,suspend,False,False,,False
-oraclespace.masto.host,suspend,False,False,,False
 orbitalstation.one,suspend,False,False,,False
 orchard.social,suspend,False,False,,False
 ouroboros.gay,suspend,False,False,,False
@@ -737,6 +735,7 @@ relay.lea.pet,suspend,False,False,,False
 relay.retronerd.at,suspend,False,False,,False
 relay.social.0x68756773.moe,suspend,False,False,,False
 relay.todon.eu,suspend,False,False,,False
+relay.worm.pink,suspend,False,False,,False
 replicants.cafe,suspend,False,False,,False
 respiroaventura.com.br,suspend,False,False,,False
 retro.pizza,suspend,False,False,,False
@@ -744,6 +743,7 @@ retro.social,suspend,False,False,,False
 richard.directory,suspend,False,False,,False
 ricko.social,suspend,False,False,,False
 riemann.social,suspend,False,False,,False
+rococo.masto.host,suspend,False,False,,False
 romeros.link,suspend,False,False,,False
 ropeburn.social,suspend,False,False,,False
 rouge.eu.org,suspend,False,False,,False
@@ -976,6 +976,7 @@ video.generallyrubbish.net,suspend,False,False,,False
 video.infosec.exchange,suspend,False,False,,False
 videos.jacksonchen666.com,suspend,False,False,,False
 videos.parleur.net,suspend,False,False,,False
+videotube.duckdns.org,suspend,False,False,,False
 vmst.io,suspend,False,False,,False
 volksverpetzer.social,suspend,False,False,,False
 wah.lgbt,suspend,False,False,,False
