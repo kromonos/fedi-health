@@ -116,7 +116,6 @@ carfree.city,suspend,False,False,,False
 cassano.com.br,suspend,False,False,,False
 casually.cat,suspend,False,False,,False
 catcatnya.com,suspend,False,False,,False
-catdog.masto.host,suspend,False,False,,False
 categoryurls.eu.org,suspend,False,False,,False
 cathode.church,suspend,False,False,,False
 cawfee.club,suspend,False,False,,False
@@ -340,6 +339,7 @@ kiwi.soda.jp.eu.org,suspend,False,False,,False
 koehlercode.dev,suspend,False,False,,False
 kolektiva.social,suspend,False,False,,False
 kookie.com.br,suspend,False,False,,False
+krapp.masto.host,suspend,False,False,,False
 lagemeet.duckdns.org,suspend,False,False,,False
 larkspur.one,suspend,False,False,,False
 lazybear.social,suspend,False,False,,False
@@ -627,7 +627,6 @@ relay.infosec.exchange,suspend,False,False,,False
 relay.lea.pet,suspend,False,False,,False
 relay.social.0x68756773.moe,suspend,False,False,,False
 relay.todon.eu,suspend,False,False,,False
-relay.worm.pink,suspend,False,False,,False
 replicants.cafe,suspend,False,False,,False
 respiroaventura.com.br,suspend,False,False,,False
 retro.pizza,suspend,False,False,,False
@@ -824,7 +823,6 @@ tsukihi.me,suspend,False,False,,False
 tube.denton.social,suspend,False,False,,False
 tube.others.social,suspend,False,False,,False
 tucson.social,suspend,False,False,,False
-tv.blahaj.world,suspend,False,False,,False
 tweesecake.social,suspend,False,False,,False
 twinports.us,suspend,False,False,,False
 types.pl,suspend,False,False,,False
