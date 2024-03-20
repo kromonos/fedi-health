@@ -1,6 +1,5 @@
 domain,severity,reject_media,reject_reports,public_comment,obfuscate
 500plus.slavistapl.eu.org,suspend,False,False,,False
-a.blahaj.world,suspend,False,False,,False
 about.iftas.org,suspend,False,False,,False
 activityrelay.beep.computer,suspend,False,False,,False
 afterspace.rocks,suspend,False,False,,False
@@ -64,7 +63,6 @@ blahaj.gg,suspend,False,False,,False
 blahaj.pics,suspend,False,False,,False
 blahaj.pw,suspend,False,False,,False
 blahaj.social,suspend,False,False,,False
-blahaj.world,suspend,False,False,,False
 blahaj.zone,suspend,False,False,,False
 blobfox.coffee,suspend,False,False,,False
 blog.bantu.social,suspend,False,False,,False
@@ -106,6 +104,7 @@ carfree.city,suspend,False,False,,False
 cassano.com.br,suspend,False,False,,False
 casually.cat,suspend,False,False,,False
 catcatnya.com,suspend,False,False,,False
+catdog.masto.host,suspend,False,False,,False
 categoryurls.eu.org,suspend,False,False,,False
 cathode.church,suspend,False,False,,False
 cawfee.club,suspend,False,False,,False
@@ -258,7 +257,6 @@ haqueers.com,suspend,False,False,,False
 hellsite.site,suspend,False,False,,False
 hell.social,suspend,False,False,,False
 hey.hagelb.org,suspend,False,False,,False
-h-i.social,suspend,False,False,,False
 hispagatos.space,suspend,False,False,,False
 hktest.blahaj.zone,suspend,False,False,,False
 hoihoi.superboi.eu.org,suspend,False,False,,False
@@ -304,12 +302,10 @@ kitty.town,suspend,False,False,,False
 kiwi.soda.jp.eu.org,suspend,False,False,,False
 kolektiva.social,suspend,False,False,,False
 kookie.com.br,suspend,False,False,,False
-krapp.masto.host,suspend,False,False,,False
 lagemeet.duckdns.org,suspend,False,False,,False
 larkspur.one,suspend,False,False,,False
 lazybear.social,suspend,False,False,,False
 leafposter.club,suspend,False,False,,False
-lea.lgbt,suspend,False,False,,False
 lea.pet,suspend,False,False,,False
 lemmy.blahaj.zone,suspend,False,False,,False
 lemmy.brennoflavio.com.br,suspend,False,False,,False
@@ -467,7 +463,6 @@ nightcity.bar,suspend,False,False,,False
 nixie.name,suspend,False,False,,False
 nixnet.social,suspend,False,False,,False
 nixos.paris,suspend,False,False,,False
-node.isonomia.net,suspend,False,False,,False
 noods.fun,suspend,False,False,,False
 norden.social,suspend,False,False,,False
 nostream.mastodon.uno,suspend,False,False,,False
@@ -480,6 +475,7 @@ old.mermaid.town,suspend,False,False,,False
 oliphant.social,suspend,False,False,,False
 olkichat.duckdns.org,suspend,False,False,,False
 ondergrond.org,suspend,False,False,,False
+oraclespace.masto.host,suspend,False,False,,False
 orbitalstation.one,suspend,False,False,,False
 orchard.social,suspend,False,False,,False
 ouroboros.gay,suspend,False,False,,False
@@ -535,6 +531,7 @@ pupy.cafe,suspend,False,False,,False
 pxlfd.plus,suspend,False,False,,False
 pynews.com.br,suspend,False,False,,False
 pyrox.dev,suspend,False,False,,False
+qtxiv.masto.host,suspend,False,False,,False
 queer.blahaj.solutions,suspend,False,False,,False
 queer.dev,suspend,False,False,,False
 queerdon.social,suspend,False,False,,False
@@ -563,6 +560,7 @@ relay.infosec.exchange,suspend,False,False,,False
 relay.lea.pet,suspend,False,False,,False
 relay.social.0x68756773.moe,suspend,False,False,,False
 relay.todon.eu,suspend,False,False,,False
+relay.worm.pink,suspend,False,False,,False
 replicants.cafe,suspend,False,False,,False
 respiroaventura.com.br,suspend,False,False,,False
 retro.pizza,suspend,False,False,,False
@@ -729,7 +727,6 @@ trunk.mad-scientist.club,suspend,False,False,,False
 tsukihi.me,suspend,False,False,,False
 tube.denton.social,suspend,False,False,,False
 tube.others.social,suspend,False,False,,False
-tube.todon.eu,suspend,False,False,,False
 tucson.social,suspend,False,False,,False
 tv.blahaj.world,suspend,False,False,,False
 tweesecake.social,suspend,False,False,,False

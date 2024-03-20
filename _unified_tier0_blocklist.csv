@@ -1,5 +1,4 @@
 domain,severity,reject_media,reject_reports,public_comment,obfuscate
-a.blahaj.world,suspend,False,False,,False
 ailbhean.co-shaoghal.net,suspend,False,False,,False
 apobangpo.space,suspend,False,False,,False
 artisan.chat,suspend,False,False,,False
@@ -21,9 +20,9 @@ blahaj.gg,suspend,False,False,,False
 blahaj.pics,suspend,False,False,,False
 blahaj.pw,suspend,False,False,,False
 blahaj.social,suspend,False,False,,False
-blahaj.world,suspend,False,False,,False
 blahaj.zone,suspend,False,False,,False
 blog.bantu.social,suspend,False,False,,False
+blog.garillaz.fr.eu.org,suspend,False,False,,False
 blog.marud.fr,suspend,False,False,,False
 blog.tonybark.com,suspend,False,False,,False
 blog.woof.group,suspend,False,False,,False
@@ -71,7 +70,6 @@ grimoire.eu.org,suspend,False,False,,False
 gts.superseriousbusiness.org,suspend,False,False,,False
 hachyderm.io,suspend,False,False,,False
 haqueers.com,suspend,False,False,,False
-h-i.social,suspend,False,False,,False
 hktest.blahaj.zone,suspend,False,False,,False
 icosahedron.website,suspend,False,False,,False
 inaccessible.ac,suspend,False,False,,False
@@ -89,7 +87,6 @@ kampftoast.de,suspend,False,False,,False
 kave.kibbutz.gay,suspend,False,False,,False
 kolektiva.social,suspend,False,False,,False
 lazybear.social,suspend,False,False,,False
-lea.lgbt,suspend,False,False,,False
 lemmy.blahaj.zone,suspend,False,False,,False
 lib.lgbt,suspend,False,False,,False
 loforo.com,suspend,False,False,,False
@@ -106,6 +103,7 @@ mas.todon.de,suspend,False,False,,False
 mastodon.design,suspend,False,False,,False
 mastodon.education,suspend,False,False,,False
 mastodon.gal,suspend,False,False,,False
+mastodon.geekcorner.eu.org,suspend,False,False,,False
 mastodon.ie,suspend,False,False,,False
 mastodon.katniss.top,suspend,False,False,,False
 mastodon.moule.world,suspend,False,False,,False
