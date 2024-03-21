@@ -41,7 +41,6 @@ audio.solarpunk.moe,suspend,False,False,,False
 aus.lgbt,suspend,False,False,,False
 aus.social,suspend,False,False,,False
 avatastic.uk,suspend,False,False,,False
-averyfun.party,suspend,False,False,,False
 avery.garden,suspend,False,False,,False
 avpd.social,suspend,False,False,,False
 awkward.company,suspend,False,False,,False
@@ -127,6 +126,7 @@ carfree.city,suspend,False,False,,False
 cassano.com.br,suspend,False,False,,False
 casually.cat,suspend,False,False,,False
 catcatnya.com,suspend,False,False,,False
+catdog.masto.host,suspend,False,False,,False
 categoryurls.eu.org,suspend,False,False,,False
 cathode.church,suspend,False,False,,False
 cawfee.club,suspend,False,False,,False
@@ -378,7 +378,6 @@ jawa.moe,suspend,False,False,,False
 jebba.moe,suspend,False,False,,False
 jittr.click,suspend,False,False,,False
 joeydrew.studio,suspend,False,False,,False
-jotboard.masto.host,suspend,False,False,,False
 jubart.com.br,suspend,False,False,,False
 jubi.life,suspend,False,False,,False
 kafeneio.social,suspend,False,False,,False
@@ -698,7 +697,6 @@ pupy.cafe,suspend,False,False,,False
 pxlfd.plus,suspend,False,False,,False
 pynews.com.br,suspend,False,False,,False
 pyrox.dev,suspend,False,False,,False
-qtxiv.masto.host,suspend,False,False,,False
 queer.blahaj.solutions,suspend,False,False,,False
 queer.dev,suspend,False,False,,False
 queerdon.social,suspend,False,False,,False
@@ -728,6 +726,7 @@ relay.fediverse.eu.org,suspend,False,False,,False
 relay.hooves.social,suspend,False,False,,False
 relay.infosec.exchange,suspend,False,False,,False
 relay.lea.pet,suspend,False,False,,False
+relay.retronerd.at,suspend,False,False,,False
 relay.social.0x68756773.moe,suspend,False,False,,False
 relay.todon.eu,suspend,False,False,,False
 replicants.cafe,suspend,False,False,,False
