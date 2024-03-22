@@ -393,7 +393,6 @@ koehlercode.dev,suspend,False,False,,False
 kolektiva.media,suspend,False,False,,False
 kolektiva.social,suspend,False,False,,False
 kookie.com.br,suspend,False,False,,False
-krapp.masto.host,suspend,False,False,,False
 lagemeet.duckdns.org,suspend,False,False,,False
 lamp.wtf,suspend,False,False,,False
 larkspur.one,suspend,False,False,,False
@@ -514,6 +513,7 @@ mastodon.raleurs.eu.org,suspend,False,False,,False
 mastodon.redgarterclub.com,suspend,False,False,,False
 mastodon.sandwich.net,suspend,False,False,,False
 mastodon.scot,suspend,False,False,,False
+mastodon.sleeping.town,suspend,False,False,,False
 mastodon.social,suspend,False,False,,False
 mastodon.stickbear.me,suspend,False,False,,False
 mastodon.technology,suspend,False,False,,False
@@ -695,7 +695,6 @@ pupy.cafe,suspend,False,False,,False
 pxlfd.plus,suspend,False,False,,False
 pynews.com.br,suspend,False,False,,False
 pyrox.dev,suspend,False,False,,False
-qtxiv.masto.host,suspend,False,False,,False
 queer.blahaj.solutions,suspend,False,False,,False
 queer.dev,suspend,False,False,,False
 queerdon.social,suspend,False,False,,False
