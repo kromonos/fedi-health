@@ -28,6 +28,7 @@ ap.remote-shell.net,suspend,False,False,,False
 ard.social,suspend,False,False,,False
 arff.archandle.net,suspend,False,False,,False
 argon.city,suspend,False,False,,False
+arilinghl.masto.host,suspend,False,False,,False
 arquivoufo.com.br,suspend,False,False,,False
 artisan.chat,suspend,False,False,,False
 asbestos.cafe,suspend,False,False,,False
@@ -693,7 +694,6 @@ pupy.cafe,suspend,False,False,,False
 pxlfd.plus,suspend,False,False,,False
 pynews.com.br,suspend,False,False,,False
 pyrox.dev,suspend,False,False,,False
-qtxiv.masto.host,suspend,False,False,,False
 queer.blahaj.solutions,suspend,False,False,,False
 queer.dev,suspend,False,False,,False
 queerdon.social,suspend,False,False,,False
@@ -884,6 +884,7 @@ termine.schraepler.de,suspend,False,False,,False
 terrible.city,suspend,False,False,,False
 terror.black,suspend,False,False,,False
 test72.eu.org,suspend,False,False,,False
+testdrive.masto.host,suspend,False,False,,False
 test.hooves.social,suspend,False,False,,False
 test.oliphant.social,suspend,False,False,,False
 test.pixelfed.de,suspend,False,False,,False
