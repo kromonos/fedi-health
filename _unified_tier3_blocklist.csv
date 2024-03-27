@@ -40,7 +40,6 @@ audio.solarpunk.moe,suspend,False,False,,False
 aus.lgbt,suspend,False,False,,False
 aus.social,suspend,False,False,,False
 avatastic.uk,suspend,False,False,,False
-averyfun.party,suspend,False,False,,False
 avery.garden,suspend,False,False,,False
 avpd.social,suspend,False,False,,False
 awkward.company,suspend,False,False,,False
@@ -125,6 +124,7 @@ carfree.city,suspend,False,False,,False
 cassano.com.br,suspend,False,False,,False
 casually.cat,suspend,False,False,,False
 catcatnya.com,suspend,False,False,,False
+catdog.masto.host,suspend,False,False,,False
 categoryurls.eu.org,suspend,False,False,,False
 cathode.church,suspend,False,False,,False
 cawfee.club,suspend,False,False,,False
@@ -356,6 +356,7 @@ indiepocalypse.social,suspend,False,False,,False
 indieweb.social,suspend,False,False,,False
 inductive.space,suspend,False,False,,False
 inex.rocks,suspend,False,False,,False
+infodump.ing,suspend,False,False,,False
 infosec.exchange,suspend,False,False,,False
 infosec.place,suspend,False,False,,False
 infosec.press,suspend,False,False,,False
@@ -376,7 +377,6 @@ jawa.moe,suspend,False,False,,False
 jebba.moe,suspend,False,False,,False
 jittr.click,suspend,False,False,,False
 joeydrew.studio,suspend,False,False,,False
-jotboard.masto.host,suspend,False,False,,False
 jubart.com.br,suspend,False,False,,False
 jubi.life,suspend,False,False,,False
 kafeneio.social,suspend,False,False,,False
@@ -400,6 +400,7 @@ larry.town,suspend,False,False,,False
 lazybear.social,suspend,False,False,,False
 leafposter.club,suspend,False,False,,False
 lea.pet,suspend,False,False,,False
+lediomar.masto.host,suspend,False,False,,False
 lemmy.blahaj.zone,suspend,False,False,,False
 lemmy.brennoflavio.com.br,suspend,False,False,,False
 lemmy.dbzer0.com,suspend,False,False,,False
@@ -622,6 +623,7 @@ old.mermaid.town,suspend,False,False,,False
 oliphant.social,suspend,False,False,,False
 olkichat.duckdns.org,suspend,False,False,,False
 ondergrond.org,suspend,False,False,,False
+oraclespace.masto.host,suspend,False,False,,False
 orbitalstation.one,suspend,False,False,,False
 orchard.social,suspend,False,False,,False
 ouroboros.gay,suspend,False,False,,False
@@ -693,6 +695,7 @@ pupy.cafe,suspend,False,False,,False
 pxlfd.plus,suspend,False,False,,False
 pynews.com.br,suspend,False,False,,False
 pyrox.dev,suspend,False,False,,False
+qtxiv.masto.host,suspend,False,False,,False
 queer.blahaj.solutions,suspend,False,False,,False
 queer.dev,suspend,False,False,,False
 queerdon.social,suspend,False,False,,False
