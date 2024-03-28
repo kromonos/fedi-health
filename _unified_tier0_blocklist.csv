@@ -22,7 +22,6 @@ blahaj.pw,suspend,False,False,,False
 blahaj.social,suspend,False,False,,False
 blahaj.zone,suspend,False,False,,False
 blog.bantu.social,suspend,False,False,,False
-blog.garillaz.fr.eu.org,suspend,False,False,,False
 blog.marud.fr,suspend,False,False,,False
 blog.tonybark.com,suspend,False,False,,False
 blog.woof.group,suspend,False,False,,False
@@ -113,6 +112,7 @@ mastodon.parleur.net,suspend,False,False,,False
 mastodon.raleurs.eu.org,suspend,False,False,,False
 mastodon.sandwich.net,suspend,False,False,,False
 mastodon.scot,suspend,False,False,,False
+mastodon.social,suspend,False,False,,False
 mastodon.stickbear.me,suspend,False,False,,False
 mastodon.weber.fi.eu.org,suspend,False,False,,False
 mastodon.ysr.ie,suspend,False,False,,False
@@ -143,6 +143,7 @@ pipou.academy,suspend,False,False,,False
 pixel.zerojay.com,suspend,False,False,,False
 pleroma.envs.net,suspend,False,False,,False
 pleroma.flussence.eu,suspend,False,False,,False
+plush.city,suspend,False,False,,False
 pony.social,suspend,False,False,,False
 pupy.cafe,suspend,False,False,,False
 pyrox.dev,suspend,False,False,,False
